@@ -11,6 +11,7 @@ It guides practitioners from **understanding the business problem** to using the
 ---
 
 ## 🔎 Key Features of the KDP (Slide 7)
+![My Diagram](https://github.com/aimlresearcher/Comprehensive-2025/blob/main/DM%20HT/images/img01.png?raw=true)
 
 ### 1️⃣ Sequential Steps
 - The process flows **step by step**.
@@ -94,6 +95,16 @@ While they differ in step names and numbers, they share a **common structure**:
 
 ---
 
-## 🔄 Summary of KDP Flow (from Slide 7 diagram)
+### ✅ Key Takeaways
 
-*(You can insert the diagram or flowchart here in your slides for visual reference.)*
+| Feature           | Importance                                     |
+|-------------------|-----------------------------------------------|
+| Sequential steps  | Organizes the data mining workflow             |
+| Iterative nature  | Allows improvements and corrections            |
+| Clear inputs/outputs | Tracks what goes in and what comes out     |
+| Reduces costs     | Avoids unnecessary repetition                  |
+| Adaptable         | Works with different data types and domains    |
+
+
+
+
