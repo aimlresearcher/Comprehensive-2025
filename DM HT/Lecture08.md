@@ -88,14 +88,8 @@ All models have been successfully applied in medical, engineering, and business 
 
 ## 🔄 7️⃣ Time and Effort Distribution (Slide 30)
 
-| KDP Step              | Effort % (approx.)                     |
-|-----------------------|----------------------------------------|
-| Understanding of Domain | ~10%                                 |
-| Understanding of Data   | ~10–15%                              |
-| Preparation of Data     | **50–70% (Most time-consuming)**     |
-| Data Mining             | ~10–15%                              |
-| Evaluation              | ~5–10%                               |
-| Deployment              | ~5%                                  |
+![My Diagram](https://github.com/aimlresearcher/Comprehensive-2025/blob/main/DM%20HT/images/img03.png?raw=true)
+
 
 **Key Insight:**  
 **Data Preparation** often consumes the majority of project time—even with automation tools.
