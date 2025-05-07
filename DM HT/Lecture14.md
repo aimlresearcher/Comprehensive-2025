@@ -4,11 +4,12 @@
 
 ## 🔎 What is Dynamic Data?
 
+
 **Dynamic data** refers to:
 - Data that **changes over time**.
 - New data points are frequently **added**.
 - Existing data may be **updated or removed**.
-
+![My Diagram](https://github.com/aimlresearcher/Comprehensive-2025/blob/main/DM%20HT/images/img07.png?raw=true)
 ---
 
 ## 🔎 Examples of Dynamic Data
