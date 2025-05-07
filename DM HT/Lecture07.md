@@ -9,6 +9,8 @@
 - Introduces **six clear steps**.
 - Emphasizes **explicit feedback loops** for iteration and correction.
 - Adaptable for projects where knowledge might be reused across domains.
+  
+![My Diagram](https://github.com/aimlresearcher/Comprehensive-2025/blob/main/DM%20HT/images/img02.png?raw=true)
 
 ---
 
