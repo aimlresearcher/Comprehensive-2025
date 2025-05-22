@@ -41,3 +41,36 @@ Interrupts pause the current process, save its state, and switch the CPU to run 
 7. **CPU state is restored** and the previous process resumes
 
 > ✅ **OS ensures** that interrupts are prioritized and can even be **nested** (high-priority interrupts can interrupt lower-priority ones).
+
+## 🖼️ Visual: Interrupt Cycle
+
+**Normal Execution → Interrupt Occurs → Save State → Run ISR → Restore State → Resume Execution**
+
+---
+
+## 🔃 Interrupt Vector Table
+
+- A table stored in memory containing the addresses of all ISRs.
+- Each type of interrupt has a **unique interrupt number** → used to index this table.
+
+---
+
+## 📋 Advantages of Interrupts
+
+- Improves **CPU efficiency** (no polling).
+- Enables **asynchronous I/O**.
+- Allows **real-time response** to critical events.
+- Supports **multitasking** and **time-sharing**.
+
+---
+
+## 📊 Summary Table
+
+| Feature                 | Description                                      |
+|-------------------------|--------------------------------------------------|
+| **Interrupt**           | Signal to CPU that an event needs attention      |
+| **ISR (Interrupt Handler)** | Function that handles specific interrupts     |
+| **Interrupt Vector Table** | Stores addresses of all ISRs                  |
+| **Preemptive Multitasking** | Enabled via timer interrupts                 |
+| **Hardware vs Software**   | Hardware: from devices; Software: from programs |
+
